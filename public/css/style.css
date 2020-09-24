@@ -2,15 +2,18 @@ body{
   font-family: "Geneva", Arial, sans-serif;
 }
 
-.carousel-item {
+.web-slider {
   height: 730px;
   width: 100%;
-  min-height: 350px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.tematik-control:hover{
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 .logo {
@@ -36,4 +39,9 @@ body{
 .navbar{
   position: absolute;
   z-index: 11;
+}
+
+.map-pic {
+  width: 90%;
+  height:auto;
 }
