@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/jpg" href="/img/Logo.jpg"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/css/style.css">
@@ -57,7 +58,7 @@
                     <li data-target="#carouselTematik" data-slide-to="3"></li>
                     <li data-target="#carouselTematik" data-slide-to="4"></li>
                 </ol>
-                <div class="carousel-inner">
+                <div class="carousel-inner" style="box-shadow: 1px 1px 10px #e5e5e5;">
                     <div class="carousel-item tematik-item active">
                     <img class="d-block w-100" src="/img/tematik/clubhouse.jpg" alt="First slide">
                     </div>
@@ -95,6 +96,161 @@
     <div class="container-fluid pt-4 pb-4" style="background: rgb(47,61,46)">
         <div class="row justify-content-center">
             <img class="map-pic" src="/img/Newmaps-synthesishomes.jpg" alt="">
+        </div>
+    </div>
+    <div class="container">
+        <div class="row justify-content-center pt-5">
+            <h1 style="font-weight:650">Type Rumah</h1>
+        </div>
+        <div class="row pt-5 pb-5">
+            <div class="col-lg-6">
+                <div id="carouselType1" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselType1" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselType1" data-slide-to="1"></li>
+                    </ol>
+                    <div class="carousel-inner" style="box-shadow: 1px 1px 10px #e5e5e5;">
+                        <div class="carousel-item active">
+                        <img class="d-block w-100" src="/img/typeRumah/andesit2.jpg" alt="First slide">
+                        </div>
+                        <div class="carousel-item">
+                        <img class="d-block w-100" src="/img/typeRumah/spekandesit.jpg" alt="Second slide">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselType1" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" style="" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselType1" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <h1 class="head-spek pt-5">Tipe Andesit - 6 x 15</h1>
+                <img class="pt-4" src="/img/typeRumah/spekandesit2.jpg" alt="">
+            </div>
+        </div>
+        <div class="row pt-5 pb-5">
+            <div class="col-lg-6">
+                <div id="carouselType2" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselType2" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselType2" data-slide-to="1"></li>
+                    </ol>
+                    <div class="carousel-inner" style="box-shadow: 1px 1px 10px #e5e5e5;">
+                        <div class="carousel-item active">
+                        <img class="d-block w-100" src="/img/typeRumah/paras.png" alt="First slide">
+                        </div>
+                        <div class="carousel-item">
+                        <img class="d-block w-100" src="/img/typeRumah/spekparas.jpg" alt="Second slide">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselType2" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" style="" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselType2" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <h1 class="head-spek pt-5">Tipe Paras - 6 x 10</h1>
+                <img class="pt-4" src="/img/typeRumah/spekparas2.jpg" alt="">
+            </div>
+        </div>
+        <div class="row pt-5 pb-5">
+            <div class="col-lg-6">
+                <div id="carouselType3" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselType3" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselType3" data-slide-to="1"></li>
+                    </ol>
+                    <div class="carousel-inner" style="box-shadow: 1px 1px 10px #e5e5e5;">
+                        <div class="carousel-item active">
+                        <img class="d-block w-100" src="/img/typeRumah/candi.png" alt="First slide">
+                        </div>
+                        <div class="carousel-item">
+                        <img class="d-block w-100" src="/img/typeRumah/spekcandi.jpg" alt="Second slide">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselType3" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" style="" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselType3" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <h1 class="head-spek pt-5">Tipe Candi - 6 x 12</h1>
+                <img class="pt-4" src="/img/typeRumah/spekcandi2.jpg" alt="">
+            </div>
+        </div>
+        <div class="row pt-5">
+            <h1 style="font-weight:650; text-align:center" class="pb-4">Rumah Contoh Virtual Tour</h1>
+        </div>
+        <div class="row justify-content-center  pb-5">
+            <iframe width="853" height="480" src="https://my.matterport.com/show/?m=YhMkiS941rp" frameborder="0" allowfullscreen allow="vr"></iframe>
+        </div>
+    </div>
+    <div class="container-fluid" style="background: url('/img/Bag.jpg')">
+        <h4 class="pt-3 pb-3 mb-0" style="text-align:center; color: white">FASILITAS TERLENGKAP</h4>
+    </div>
+    <div class="container-fluid pt-2 mt-0" style="background: rgb(232, 232, 232)">
+        <div class="row">
+            <div class="col-lg-4">
+                <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">4 Taman Tematik</span></p>
+                <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Kolam Renang</span></p>
+                <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Sauna Room</span></p>
+                <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Indoor & Outdoor Gym</span></p>
+                <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Jogging Track</span></p>
+            </div>
+            <div class="col-lg-4">
+            <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Jaringan Internet</span></p>
+            <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">CCTV 24 Jam</span></p>
+            <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Gate System</span></p>
+            <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Access Card</span></p>
+            <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Ruang Serbaguna</span></p>
+            </div>
+            <div class="col-lg-4">
+            <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">BBQ Area & Picnic Area</span></p>
+            <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Taman Bermain Anak</span></p>
+            <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Ruang Belajar Outdoor</span></p>
+            <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Jalur Sepeda</span></p>
+            <p class="pl-3"><i class="fa fa-arrow-circle-right" aria-hidden="true" style="color:green"></i><span style="font-weight:bold" class="pl-3">Public Outdoor Lounge</span></p>
+            </div>
+        </div>
+    </div>
+    <div class="container pb-5">
+        <h1 class="pt-5" style="text-align:center;font-weight:650"></i>Contact Us</h1>
+        <div class="row justify-content-center">
+            <a class="btn btn-success mt-2 mb-3" style="color:white;"><i class="fa fa-whatsapp pr-2" aria-hidden="true"></i>Contact Person (WA)</a>
+        </div>
+        <p style="text-align:center"><strong>Office :</strong></p>
+        <p style="text-align:center">Jl. Pondok Bambu Batas No.14 Rt.003/012<br>Kel. Pondok Bambu<br>
+            Kecamatan Duren Sawit<br> Jakarta Timur, 13620</p>
+    </div>
+    <div class="container-fluid pb-2 mb-5" style="background: rgb(47,61,46)">
+        <div class="row pt-3">
+            <div class="col-lg-6">
+                <h5 style="font-weight:bold; text-align: center; color:white">DEVELOPED BY :</h5>
+                <div class="row justify-content-center">
+                    <img src="/img/logoSynthesis.png" alt="">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <h5 style="font-weight:bold; text-align: center; color:white">PARTNER :</h5>
+                <div class="row justify-content-center">
+                    <img style="width:25%;height:auto" src="/img/logoAsriloka.png" alt="">
+                </div>
+                <p style="text-align:center;" class="pt-2"><a href="https://www.asriloka.com" style="text-decoration:none;color: white">www.asriloka.com</a></p>
+            </div>
         </div>
     </div>
 

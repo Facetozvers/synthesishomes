@@ -12,6 +12,8 @@ body{
   background-size: cover;
 }
 
+
+
 .tematik-control:hover{
   background-color: rgba(0, 0, 0, 0.1);
 }
@@ -44,4 +46,41 @@ body{
 .map-pic {
   width: 90%;
   height:auto;
+}
+
+.head-spek{
+  font-weight:650;
+  color: rgb(47,61,46);
+  text-align: center;
+}
+
+.carousel-indicators .active{
+  background-color: rgb(47,61,46);
+}
+
+.carousel-indicators li{
+  background-color: #d3cfcf;
+}
+
+@media only screen and (max-width: 1025px) {
+  .web-slider {
+    height:530px;
+  }
+}
+@media only screen and (max-width: 770px) {
+  .web-slider {
+    height:420px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .web-slider {
+    height:320px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .web-slider {
+    height:220px;
+  }
 }
