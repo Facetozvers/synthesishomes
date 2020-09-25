@@ -90,7 +90,7 @@
     <div class="container-fluid" style="background: url('/img/Bag.jpg')">
         <h4 class="pt-4" style="text-align:center; color: white">Untuk informasi hubungi<br> Contact Person kami</h4>
         <div class="row justify-content-center pt-3 pb-4">
-            <a class="btn btn-primary pt-2 pb-2 button-cp" style="background: white; border:1px solid grey"><i class="fa fa-phone-square" aria-hidden="false"></i><span class="pl-3">Lihat Contact Person</span></a>
+            <a href="https://marketing.asriloka.com/agen/synthesishomes" target="_blank" class="btn btn-primary pt-2 pb-2 button-cp" style="background: white; border:1px solid grey; color:black"><i class="fa fa-phone-square" aria-hidden="false"></i><span class="pl-3">Lihat Contact Person</span></a>
         </div>
     </div>
     <div class="container-fluid pt-4 pb-4" style="background: rgb(47,61,46)">
@@ -230,7 +230,7 @@
     <div class="container pb-5">
         <h1 class="pt-5" style="text-align:center;font-weight:650"></i>Contact Us</h1>
         <div class="row justify-content-center">
-            <a class="btn btn-success mt-2 mb-3" style="color:white;"><i class="fa fa-whatsapp pr-2" aria-hidden="true"></i>Contact Person (WA)</a>
+            <a href="https://marketing.asriloka.com/agen/synthesishomes" target="_blank" class="btn btn-success mt-2 mb-3" style="color:white;"><i class="fa fa-whatsapp pr-2" aria-hidden="true"></i>Contact Person (WA)</a>
         </div>
         <p style="text-align:center"><strong>Office :</strong></p>
         <p style="text-align:center">Jl. Pondok Bambu Batas No.14 Rt.003/012<br>Kel. Pondok Bambu<br>
@@ -249,7 +249,7 @@
                 <div class="row justify-content-center">
                     <img style="width:25%;height:auto" src="/img/logoAsriloka.png" alt="">
                 </div>
-                <p style="text-align:center;" class="pt-2"><a href="https://www.asriloka.com" style="text-decoration:none;color: white">www.asriloka.com</a></p>
+                <p style="text-align:center;" class="pt-2"><a href="https://www.asriloka.com" target="_blank" style="text-decoration:none;color: white">www.asriloka.com</a></p>
             </div>
         </div>
     </div>
