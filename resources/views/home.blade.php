@@ -88,9 +88,12 @@
         </div>
     </div>
     <div class="container-fluid" style="background: url('/img/Bag.jpg')">
-        <h4 class="pt-4" style="text-align:center; color: white">Untuk informasi hubungi<br><br><strong>+62 85692956909</strong><br>a.n Bintang</h4>
+        <h4 class="pt-4" style="text-align:center; color: white">Untuk informasi silahkan klik tombol dibawah ini</h4>
         <div class="row justify-content-center pt-3 pb-4">
-            <a href="https://marketing.asriloka.com/u/BAF1108020022" target="_blank" class="btn btn-primary pt-2 pb-2 button-cp" style="background: white; border:1px solid grey; color:black"><i class="fa fa-phone-square" aria-hidden="false"></i><span class="pl-3">Lihat Profile</span></a>
+            <div class="btn-group">
+                <a href="https://marketing.asriloka.com/u/BAF1108020022" target="_blank" class="btn btn-primary pt-2 pb-2 button-cp" style="background: white; border:1px solid grey; color:black"><i class="fa fa-user" aria-hidden="false"></i><span class="pl-3">Contact Person</span></a>
+                <a href="https://api.whatsapp.com/send?phone=+6285692956909&text=Halo, Saya ingin bertanya tentang Synthesis Homes" target="_blank" class="btn btn-primary pt-2 pb-2 button-cp" style="background: #25d366; border:1px solid grey; color:black"><i class="fa fa-whatsapp" aria-hidden="false"></i><span class="pl-3">Hubungi via Whatsapp</span></a>
+            </div>
         </div>
     </div>
     <div class="container-fluid pt-4 pb-4" style="background: rgb(47,61,46)">
@@ -229,9 +232,12 @@
     </div>
     <div class="container pb-5">
         <h1 class="pt-5" style="text-align:center;font-weight:650"></i>Contact Us</h1>
-        <h4 class="pt-4" style="text-align:center">Untuk informasi hubungi<br><br><strong>+62 85692956909</strong><br>a.n Bintang</h4>
+        <h4 class="pt-4" style="text-align:center">Untuk informasi silahkan klik tombol dibawah ini</h4>
         <div class="row justify-content-center pt-3 pb-4">
-            <a href="https://marketing.asriloka.com/u/BAF1108020022" target="_blank" class="btn btn-primary pt-2 pb-2 button-cp" style="background: white; border:1px solid grey; color:black"><i class="fa fa-phone-square" aria-hidden="false"></i><span class="pl-3">Lihat Profile</span></a>
+            <div class="btn-group">
+                <a href="https://marketing.asriloka.com/u/BAF1108020022" target="_blank" class="btn btn-primary pt-2 pb-2 button-cp" style="background: white; border:1px solid grey; color:black"><i class="fa fa-user" aria-hidden="false"></i><span class="pl-3">Contact Person</span></a>
+                <a href="https://api.whatsapp.com/send?phone=+6285692956909&text=Halo, Saya ingin bertanya tentang Synthesis Homes" target="_blank" class="btn btn-primary pt-2 pb-2 button-cp" style="background: #25d366; border:1px solid grey; color:black"><i class="fa fa-whatsapp" aria-hidden="false"></i><span class="pl-3">Hubungi via Whatsapp</span></a>
+            </div>
         </div>
         <p style="text-align:center"><strong>Office :</strong></p>
         <p style="text-align:center">Jl. Pondok Bambu Batas No.14 Rt.003/012<br>Kel. Pondok Bambu<br>
