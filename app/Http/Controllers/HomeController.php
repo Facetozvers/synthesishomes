@@ -69,6 +69,12 @@ class HomeController extends Controller
             $userid = "BAF1108020015";
         }
 
+        else if($request->kontak == "MJChristian"){
+            $hp = '82260736988';
+            $nama = "M J Christian Pandorante";
+            $userid = "BAF1111020002";
+        }
+
         else{
             return view('home');
         }
